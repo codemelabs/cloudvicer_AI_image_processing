@@ -1,7 +1,7 @@
-flask
-flask-cors
-numpy
-mysql-connector-python
-tensorflow
-scikit-learn
-pillow
+flask==2.3.3
+flask-cors==4.0.0
+numpy==1.24.4
+mysql-connector-python==8.3.0
+tensorflow==2.10.1
+scikit-learn==1.3.2
+pillow==10.2.0
