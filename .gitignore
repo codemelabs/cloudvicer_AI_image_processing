@@ -10,7 +10,7 @@ env/
 .venv/
 
 # Environment variables (IMPORTANT)
-.env
+# .env
 
 # Uploaded files (user data)
 uploads/
